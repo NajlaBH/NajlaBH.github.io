@@ -15,4 +15,4 @@ git clone https://github.com/NajlaBH/NajlaBH.github.io.git
 https://github.com/daattali/beautiful-jekyll
 
 ##License
-+MIT License.
+MIT License.
