@@ -3,16 +3,6 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
-          {% if site.author.facebook and site.footer-links-active.facebook %}
-          <li>
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
@@ -23,17 +13,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
-          <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.google-plus and site.footer-links-active.google-plus %}
+          {% if site.author.google-plus and site.footer-links-active.google-plus %}
           <li>
             <a href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
               <span class="fa-stack fa-lg">
@@ -83,6 +63,27 @@
             </a>
           </li>
           {% endif %}
+		  {% if site.author.twitter and site.footer-links-active.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.facebook and site.footer-links-active.facebook %}
+          <li>
+            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+      	
       {% if site.author.snapchat and site.footer-links-active.snapchat %}
           <li>
             <a href="https://www.snapchat.com/add/{{ site.author.snapchat }}" title="Snapchat">
