@@ -26,8 +26,10 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - DokerBIum: "https://zenodo.org/record/45663"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Django-PersoSite: "http://bhnajlabioinfo.pythonanywhere.com"
+    - PHP-PersoSite: "http://bhnajla.bioinfo.free.fr"
+    - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
+    - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   Author's home: "http://najlabh.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
