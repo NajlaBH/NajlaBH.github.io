@@ -28,7 +28,7 @@ Najla?
 
 <citation> - You say I dream too big. I say you think too small._[*]</citation><br>
 
-<citation> -When you talk, you're only repeating what you already know. If you listen, you may learn something new._[Dalai Lama]</citation><br>
+<citation> - When you talk, you're only repeating what you already know. If you listen, you may learn something new._[Dalai Lama]</citation><br>
 
 <blockquote>
 <section style="color:green;float:left;padding-right:20px;tiny;">

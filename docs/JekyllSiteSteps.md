@@ -48,6 +48,11 @@ $ curl -sSL https://raw.githubusercontent.com/calabash/install/master/install-os
 gem update jekyll
 gem update bundler
 ```
+##### * Add orcid
+```
+gem install faraday
+gem install faraday_middleware
+```
 
 ## II. Create new projects
 ### II.1 Create a blog project
