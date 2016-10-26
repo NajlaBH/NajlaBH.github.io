@@ -25,9 +25,11 @@ description: Najla BEN HASSINE another test :p !
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - DokerBIum: "https://zenodo.org/record/45663"
+    - Jekyll-PersoSite: "http://najlabh.github.io"
     - Django-PersoSite: "http://bhnajlabioinfo.pythonanywhere.com"
     - PHP-PersoSite: "http://bhnajla.bioinfo.free.fr"
+  Bitools:
+    - DokerBIum: "https://zenodo.org/record/45663"  
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   Author's home: "http://najlabh.github.io"
