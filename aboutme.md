@@ -11,10 +11,12 @@ subtitle: Let's work together !!
 Najla?
 </section>
 <b>
-- Love coding in python, R and sometime in Java.<br>
+- Love coding with Python, R and sometimes Java.<br>
 - Fun of Dockerization and Virtualization.<br>
 - Attentive to new technologies for web developpement and design.<br>
-- Highly interested in new data challlenges : big data, data sharing and cloud computing.</b>
+- Highly interested in new data challlenges : big data, data sharing and cloud computing.
+</b>
+
 <br>
 
 <section style="color:blue;float:left;padding-right:20px;">
@@ -27,6 +29,10 @@ Najla?
 <citation> - Never discourage anyone who makes continual progress, no matter how slow._ [*]</citation><br>
 
 <citation> - You say I dream too big. I say you think too small._[*]</citation><br>
+
+<citation> - It's not what you know, it's when you know it._[*]</citation><br>
+
+<citation> - What gets us into trouble is not what we don’t know. It’s what we know for sure that just ain’t so. _[Mark Taiwan]</citation><br>
 
 <citation> - When you talk, you're only repeating what you already know. If you listen, you may learn something new._[Dalai Lama]</citation><br>
 
