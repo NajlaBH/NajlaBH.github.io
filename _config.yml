@@ -29,10 +29,21 @@ navbar-links:
     - Django-PersoSite: "http://bhnajlabioinfo.pythonanywhere.com"
     - PHP-PersoSite: "http://bhnajla.bioinfo.free.fr"
   Bitools:
+<<<<<<< HEAD
+    - DockerBIum: "https://zenodo.org/record/45663"
+    - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
+    - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
+  BHNtools:
+    - R: "https://bhntools.github.io/BHNtools-R"
+    - JavaFx: "https://github.com/BHNtools/RecipeConverter"
+
+#  Author's home: "http://najlabh.github.io"
+=======
     - DokerBIum: "https://zenodo.org/record/45663"  
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   Author's home: "http://najlabh.github.io"
+>>>>>>> d61fa2cbd78d2a5fda8b29d780c10b8667de7b4e
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
