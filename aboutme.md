@@ -10,14 +10,13 @@ subtitle: Let's work together !!
 <section style="color:blue;float:left;padding-right:20px;">
 Najla?
 </section>
-<b>
-- Love coding with Python, R and sometimes Java.<br>
-- Fun of Dockerization and Virtualization.<br>
-- Attentive to new technologies for web developpement and design.<br>
-- Highly interested in new data challlenges : big data, data sharing and cloud computing.
-</b>
+<b><ul>
+<li>- Love coding with Python, R and sometimes Java.<br>.</li>
+<li>- Fun of Dockerization and Virtualization.<br>.</li>
+<li>- Attentive to new technologies for web developpement and design.<br>.</li>
+<li>- Highly interested in new data challlenges : big data, data sharing and cloud computing.<br></li>
+</b></ul>
 
-<br>
 
 <section style="color:blue;float:left;padding-right:20px;">
 <img src="img/citations.png" style="width:30px;height:30px;">
