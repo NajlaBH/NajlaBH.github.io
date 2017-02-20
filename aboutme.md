@@ -15,7 +15,7 @@ Najla?
 <li>- Fun of Dockerization and Virtualization.<br>.</li>
 <li>- Attentive to new technologies for web developpement and design.<br>.</li>
 <li>- Highly interested in new data challlenges : big data, data sharing and cloud computing.<br></li>
-</b></ul>
+</ul>
 
 
 <section style="color:blue;float:left;padding-right:20px;">
