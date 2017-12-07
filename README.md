@@ -1,18 +1,18 @@
 # NajlaBH.github.io
-##Authors & Maintainer
+## Authors & Maintainer
 BEN HASSINE Najla, bhndevtools@gmail.com .
 
 
-##Usage
+## Usage
 url : http://NajlaBH.github.io
 
 
-##Building
+## Building
 git clone https://github.com/NajlaBH/NajlaBH.github.io.git
 
 
-##Source: fork from 
+## Source: fork from 
 https://github.com/daattali/beautiful-jekyll
 
-##License
+## License
 MIT License.
