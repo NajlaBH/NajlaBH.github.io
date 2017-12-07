@@ -29,6 +29,7 @@ navbar-links:
     - Django-PersoSite: "http://bhnajlabioinfo.pythonanywhere.com"
     - PHP-PersoSite: "http://bhnajla.bioinfo.free.fr"
   Bitools:
+    - ProtAAscan: "https://wordscloud.shinyapps.io/protaascann"
     - DockerBIum: "https://zenodo.org/record/45663"
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
