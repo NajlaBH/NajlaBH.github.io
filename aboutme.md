@@ -27,6 +27,12 @@ Najla?
 </section>
 <br>
 <blockquote>
+<citation> We can not solve our problems with the same level of thinking that created them. _[*]</citation><br>
+     
+<citation> Science is the father of knowledge, but opinion breeds ignorance. _[Hippocrates]</citation><br>     
+
+<citation> The most important thing a professor can do is to make students feel that all the ideas were their own. _[Marvin Minsky]</citation><br>     
+
 <citation> - Never discourage anyone who makes continual progress, no matter how slow._ [*]</citation><br>
 
 <citation> - You say I dream too big. I say you think too small._[*]</citation><br>
