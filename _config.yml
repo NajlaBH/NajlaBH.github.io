@@ -25,6 +25,8 @@ description: Najla BEN HASSINE another test :p !
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - GO-PersoSite: "https://najlabioinfo.github.io/glance"
+    - Angular-PersoSite: "https://ng-najlabhcv.herokuapp.com"
     - Jekyll-PersoSite: "http://najlabh.github.io"
     - Django-PersoSite: "http://bhnajlabioinfo.pythonanywhere.com"
     - PHP-PersoSite: "http://bhnajla.bioinfo.free.fr"
