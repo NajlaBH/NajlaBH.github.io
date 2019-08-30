@@ -27,6 +27,14 @@ Najla?
 </section>
 <br>
 <blockquote>
+<citation> - The most important thing a professor can do is to make students feel that all the ideas were their own. _[Marvin Minsky]</citation><br> 
+
+<citation> - Oh yes, the past can hurt. But you can either run from it or learn form it._ [Rafiki TheLionKing]</citation><br>
+
+<citation> - Do or do not - there is no try._ [Yoda StarWars]</citation><br>
+
+<citation> - Love goes saying to the soul "sigh"._ [Dante Alighieri]</citation><br>
+
 <citation> - When the going gets tough, the tough get going. _[*]</citation><br>   
 
 <citation> - The pen is mightier than the sword. _[*]</citation><br>   
@@ -35,9 +43,7 @@ Najla?
 
 <citation> - We can not solve our problems with the same level of thinking that created them. _[*]</citation><br>
      
-<citation> - Science is the father of knowledge, but opinion breeds ignorance. _[Hippocrates]</citation><br>     
-
-<citation> - The most important thing a professor can do is to make students feel that all the ideas were their own. _[Marvin Minsky]</citation><br>     
+<citation> - Science is the father of knowledge, but opinion breeds ignorance. _[Hippocrates]</citation><br>         
 
 <citation> - Never discourage anyone who makes continual progress, no matter how slow._ [*]</citation><br>
 

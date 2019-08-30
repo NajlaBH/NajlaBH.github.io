@@ -17,7 +17,7 @@ baseurl: ""
 title: Najla Git website
 
 # Short description of your site
-description: Najla BEN HASSINE another test :p !
+description: Najla BEN HASSINE another website :p !
 
 # --- Navigation bar options --- #
 
@@ -36,6 +36,7 @@ navbar-links:
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   BHNtools:
+    - GO: "https://go-contact-form.herokuapp.com/contact"
     - R: "https://bhntools.github.io/BHNtools-R"
     - JavaFx: "https://github.com/BHNtools/RecipeConverter"
 #  Author's home: "http://najlabh.github.io"
@@ -193,5 +194,5 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-gems:
+plugins:
   - jekyll-paginate
