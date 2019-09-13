@@ -36,9 +36,8 @@ navbar-links:
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   BHNtools:
-    - GO: 
-      - ContactForm: "https://go-contact-form.herokuapp.com/contact"
-      - BookStore: https://nj-book-store.herokuapp.com
+    - GO[ContactForm]: "https://go-contact-form.herokuapp.com/contact"
+    - GO[BookStore]: https://nj-book-store.herokuapp.com
     - R: "https://bhntools.github.io/BHNtools-R"
     - JavaFx: "https://github.com/BHNtools/RecipeConverter"
 #  Author's home: "http://najlabh.github.io"
