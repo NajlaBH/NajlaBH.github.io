@@ -25,6 +25,7 @@ description: Najla BEN HASSINE another website :p !
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - GO-Dashboard: "https://hrk-njdashboard.herokuapp.com"
     - GO-PersoSite: "https://najlabioinfo.github.io/glance"
     - Angular-PersoSite: "https://ng-najlabhcv.herokuapp.com"
     - Jekyll-PersoSite: "http://najlabh.github.io"
