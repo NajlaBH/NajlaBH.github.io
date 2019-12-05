@@ -37,6 +37,7 @@ navbar-links:
     - MutDetect: "https://github.com/ijpb-bioinformatics/mutdetect-pipeline"
     - FileMatch: "https://github.com/jos4uke/fileMatch/tree/master/fileMatch"
   BHNtools:
+    - SpringBoot-ReactJS[Samplificator]: "https://samplificator.herokuapp.com"
     - GO[QuotApi]: "https://awesome-quotes-api.herokuapp.com"
     - GO[BookStore]: "https://nj-book-store.herokuapp.com"
     - GO[ContactForm]: "https://go-contact-form.herokuapp.com/contact"
