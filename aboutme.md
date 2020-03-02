@@ -27,6 +27,8 @@ Najla?
 </section>
 <br>
 <blockquote>
+<citation> - The highest achievable level of service comes from the heart, so the company that reaches its people s hearts will provide the very best service. _[Hal]</citation><br>
+
 <citation> - The most important thing a professor can do is to make students feel that all the ideas were their own. _[Marvin Minsky]</citation><br> 
 
 <citation> - Oh yes, the past can hurt. But you can either run from it or learn form it._ [Rafiki TheLionKing]</citation><br>

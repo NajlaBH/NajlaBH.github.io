@@ -23,7 +23,7 @@ description: Najla BEN HASSINE another website :p !
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - GO-Dashboard: "https://hrk-njdashboard.herokuapp.com"
     - GO-PersoSite: "https://najlabioinfo.github.io/glance"
