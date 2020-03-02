@@ -3,7 +3,7 @@ _site
 .sass-cache
 .vagrant
 
-Gemfile*
+Gemfile
 # general
 .DS_Store
 Thumbs.db
